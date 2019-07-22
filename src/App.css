@@ -1,0 +1,165 @@
+/* .App-Container {
+  display: flex;
+  flex: 1;
+  justify-content: flex-start;
+  flex-direction: column;
+  border-top: 0.1pt solid gray;
+  width: 80vw;
+  height: 50vh;
+  padding: 30px;
+  font-family: serif;
+}
+
+.Top-Content {
+  display: flex;
+}
+
+.Username {
+  font-size: 11px;
+  color: gray;
+  padding-left: 5px;
+}
+
+.Round-Image {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.Top-Text {
+  display: flex;
+  font-size: 10px;
+}
+
+.Modal-Arrow {
+  display: flex;
+  margin-left: 50px;
+}
+
+.Post-Title {
+  display: flex;
+  padding-left: 0;
+}
+
+.Square-Image {
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+}
+
+.Middle-Content {
+  display: flex;
+  align-items: center;
+  background-color: orange;
+  color: white;
+  width: 50vw;
+  height: 30vh;
+  margin: 0 auto;
+}
+
+.Bottom-Icons {
+  display: flex;
+  flex-direction: row;
+} */
+
+body {
+  color: #292f33;
+}
+
+/*
+.BarkEntry-BarkHolder {
+  border-left: 1px solid #e1e8ed;
+  border-right: 1px solid #e1e8ed;
+  border-top: 1px solid #e1e8ed;
+  width: 60vw;
+  margin: auto;
+  border-radius: 5px;
+}
+
+.BarkEntry-ActionList {
+  display: block;
+  line-height: 18px;
+  margin-left: 58px;
+  margin-top: 10px;
+  color: #292f33;
+}
+
+.Bark-Reply:hover {
+  color: #292f33;
+}
+
+.Bark-Retweet:hover {
+  color: #5cd65c;
+}
+
+.Bark-Heart:hover {
+  color: #ff3333;
+}
+
+.BarkEntry {
+  border-bottom: 1px solid #e1e8ed;
+  cursor: pointer;
+  min-height: 51px;
+  padding: 9px 12px;
+}
+
+.BarkEntry-Content {
+  display: block;
+  font-size: 14px;
+  margin-left: 58px;
+  font-size: 14px;
+}
+
+.BarkEntry-AccountGroup {
+  color: #8899a6;
+  padding: 0px;
+  text-decoration: none;
+  line-height: 20px;
+}
+
+.BarkEntry-Avatar {
+  float: left;
+  height: 48px;
+  width: 48px;
+  margin-left: -58px;
+  border-radius: 5px;
+}
+
+.BarkEntry-FullName {
+  font-weight: bold;
+  font-size: 14px;
+  color: #292f33;
+  padding: 0px;
+}
+
+.BarkEntry-Username {
+  font-weight: bold;
+  font-size: 14px;
+  color: #b1bbc3;
+  padding: 0px;
+}
+
+.BarkEntry-Timestamp {
+  font-size: 14px;
+  volor: #b1bbc3;
+  padding: 0px;
+}
+
+.BarkEntry-TextContainer {
+  font-size: 14px;
+  color: #292f33;
+  line-height: 18px;
+}
+
+.OptionalMedia {
+  margin-left: 58px;
+  margin-top: 10px;
+}
+
+.OptionalMedia-Image {
+  border-radius: 5px;
+  max-width: 100%;
+  max-height: 306px;
+}
+*/
